@@ -1,5 +1,5 @@
 ## 简介
-这个项目是为了备忘而整理创建。持续更新中...
+这个项目是为了备忘而整理创建。持续更新中...
 
 > 若有觉得更好的文章或者库，可以贡献出来；
 > 觉得有误的，请联系我删除。
@@ -15,7 +15,7 @@
 
 - [深入理解 JavaScript 系列 - 汤姆大叔的博客](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 
-- [ 前端基础进阶系列](https://www.jianshu.com/p/cd3fee40ef59)
+- [前端基础进阶系列](https://www.jianshu.com/p/cd3fee40ef59)
 
 - [面试图谱](https://yuchengkai.cn/docs/)
 
@@ -57,7 +57,7 @@
 
 - [WePY - 微信官方](https://tencent.github.io/wepy/)
 
-- [mpvue -  美团](http://mpvue.com/)
+- [mpvue - 美团](http://mpvue.com/)
 
 - [Taro - 京东](https://taro.aotu.io/)
 
